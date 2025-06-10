@@ -3,14 +3,14 @@
 Aplikasi pemutar musik desktop modern yang dibangun menggunakan JavaFX. Melalui antarmuka yang interaktif, pengguna dapat melakukan penelusuran, mendengarkan lagu, membuat playlist lagu, dan menambahkan lagu dari file lokal mereka ke aplikasi ini.  
 
 📌 Fitur:  
-🎧 Kontrol pemutaran: putar, jeda, berhenti, lagu sebelumnya, lagu berikutnya  
-🗂️ Manajemen daftar lagu menggunakan ListView  
-🔍 Fitur pencarian daftar lagu secara real-time  
-📝 Pengelolaan antrean pemutaran  
-🎚️ Pengaturan volume dan slider progres lagu  
-⏱️ Menampilkan waktu saat ini dan durasi total lagu  
+🎧 Kontrol pemutaran: putar, jeda, berhenti, lagu sebelumnya, lagu berikutnya dengan memanfaatkan new Button  
+🗂️ Manajemen daftar lagu menggunakan ListView menggunakan import java.util.List, import java.util.ArrayList, dll  
+🔍 Fitur pencarian daftar lagu secara real-time menggunakan setPredicate dan getName  
+📝 Pengelolaan antrean pemutaran dengan import java.util.LinkedList, import java.util.Queue, dll 
+🎚️ Pengaturan volume dan slider progres lagu dengan new Slider 
+⏱️ Menampilkan waktu saat ini dan durasi total lagu dengan string formatDuration 
 🌓 Mode tema terang dan gelap, menggunakan bantuan CSS yang dihubungkan ke Java  
-🖱️ Dukungan drag-and-drop untuk file lagu  
+🖱️ Dukungan drag-and-drop untuk file lagu dengan javafx.scene.input.Dragboard dan import javafx.scene.input.TransferMode  
   
 🛠️ Teknologi yang Digunakan
 - Java 8+
