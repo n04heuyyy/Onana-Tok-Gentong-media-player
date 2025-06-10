@@ -19,7 +19,9 @@ Aplikasi pemutar musik desktop modern yang dibangun menggunakan JavaFX. Melalui 
 - Ikon kustom diambil dari folder resources/ yang berisi ikon untuk play, pause, stop, next, previous button  
   
 💻 UI  
-![image]()
+![Dark mode UI](https://github.com/n04heuyyy/Onana-Tok-Gentong-media-player/blob/main/Darkmode%20UI.png)  
+![Light mode UI](https://github.com/n04heuyyy/Onana-Tok-Gentong-media-player/blob/main/Lightmode%20UI.png)  
+  
 
 🧠 Bagian-bagian yang menggunakan AI:
 - Context menu
