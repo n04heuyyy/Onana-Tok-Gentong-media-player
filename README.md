@@ -28,5 +28,5 @@ Aplikasi pemutar musik desktop modern yang dibangun menggunakan JavaFX. Melalui 
 
 👨‍💻 Author  
 Nathanael Noah Purwoadi - 2802397230  
-Calista Paramitha Chandra - 2702221841 
+Calista Paramitha Chandra - 2702221841  
 Ofellia Marvella Amin - 2702223310  
