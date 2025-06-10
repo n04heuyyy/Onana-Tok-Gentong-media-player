@@ -21,6 +21,7 @@ Aplikasi pemutar musik desktop modern yang dibangun menggunakan JavaFX. Melalui 
 💻 UI  
 ![Dark mode UI](https://github.com/n04heuyyy/Onana-Tok-Gentong-media-player/blob/main/Darkmode%20UI.png)  
 ![Light mode UI](https://github.com/n04heuyyy/Onana-Tok-Gentong-media-player/blob/main/Lightmode%20UI.png)  
+![Confirmation Screen](https://github.com/n04heuyyy/Onana-Tok-Gentong-media-player/blob/main/Confir%20Play.png)  
   
 
 🧠 Bagian-bagian yang menggunakan AI:
