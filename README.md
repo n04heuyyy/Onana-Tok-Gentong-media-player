@@ -9,7 +9,7 @@ Aplikasi pemutar musik desktop modern yang dibangun menggunakan JavaFX. Melalui 
 📝 Pengelolaan antrean pemutaran  
 🎚️ Pengaturan volume dan slider progres lagu  
 ⏱️ Menampilkan waktu saat ini dan durasi total lagu  
-🌓 Mode tema terang dan gelap  
+🌓 Mode tema terang dan gelap, menggunakan bantuan CSS yang dihubungkan ke Java  
 🖱️ Dukungan drag-and-drop untuk file lagu  
   
 🛠️ Teknologi yang Digunakan
@@ -28,6 +28,8 @@ Aplikasi pemutar musik desktop modern yang dibangun menggunakan JavaFX. Melalui 
 - Context menu
 - Drag and drop system
 - Search filter
+
+Pastikan sudah mengunduh JavaFX SDK dan mengikuti cara compile and run di Terminal.
 
 👨‍💻 Author  
 Nathanael Noah Purwoadi - 2802397230  
