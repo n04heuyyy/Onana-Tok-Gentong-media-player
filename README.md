@@ -27,6 +27,6 @@ Aplikasi pemutar musik desktop modern yang dibangun menggunakan JavaFX. Melalui 
 - Search filter
 
 👨‍💻 Author  
-Nathanael Noah Purwoadi - 2802397230 
-Calista Paramitha Chandra - 2702221841
-Ofellia Marvella Amin - 2702223310
+Nathanael Noah Purwoadi - 2802397230  
+Calista Paramitha Chandra - 2702221841 
+Ofellia Marvella Amin - 2702223310  
